@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.website" resolutions="1x" timestamp="1526418475618">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.website" resolutions="1x" timestamp="1526418724693">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="4273359385" ref="index"/>
-    <file name="iefonts_index.css" crc="240294202" ref="index"/>
+    <file name="index.css" crc="43996321" ref="index"/>
+    <file name="iefonts_index.css" crc="3960975173" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -182,5 +182,5 @@
     </folder>
     <file name="index.html" crc="182769471" seo="true" mt="1526417169082" redirect="true"/>
   </folder>
-  <file name="index.html" crc="418467096" seo="true" mt="1526418463151" redirect="true"/>
+  <file name="index.html" crc="344097826" seo="true" mt="1526418713377" redirect="true"/>
 </manifest>
