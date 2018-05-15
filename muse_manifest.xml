@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.website" resolutions="1x" timestamp="1526415003169">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.website" resolutions="1x" timestamp="1526417173280">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="370533907" ref="index"/>
-    <file name="iefonts_index.css" crc="4285079940" ref="index"/>
+    <file name="index.css" crc="4201368424" ref="index"/>
+    <file name="iefonts_index.css" crc="3960975173" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -62,9 +62,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="image4-u5782-fr.jpg" crc="3844864534" ref="phone>index"/>
-    <file name="image2-u5783-fr.jpg" crc="3980115792" ref="phone>index"/>
-    <file name="image3-u5784-fr.jpg" crc="263457051" ref="phone>index"/>
+    <file name="image4-u5782-fr.jpg" crc="3928470771" ref="phone>index"/>
+    <file name="image2-u5783-fr.jpg" crc="4058095565" ref="phone>index"/>
+    <file name="image3-u5784-fr.jpg" crc="4153076207" ref="phone>index"/>
     <file name="janetdoe.jpg" crc="513560085" ref="phone>index:tablet>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -83,7 +83,7 @@
     <file name="u5728-r.png" crc="35209442" ref="phone>index"/>
     <file name="u5730.png" crc="401112214" ref="phone>index"/>
     <file name="u5730-r.png" crc="297139583" ref="phone>index"/>
-    <file name="sunbanner.jpg" crc="65654031" ref="tablet>index:index">
+    <file name="sunbanner.jpg" crc="316557624" ref="tablet>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -113,9 +113,6 @@
     <file name="u5222-r.png" crc="4173147026" ref="tablet>index"/>
     <file name="u5220.png" crc="256863744" ref="tablet>index"/>
     <file name="u5220-r.png" crc="404507161" ref="tablet>index"/>
-    <file name="image4-u5428-fr.jpg" crc="4047683231" ref="tablet>index"/>
-    <file name="image2-u5444-fr.jpg" crc="50717409" ref="tablet>index"/>
-    <file name="image3-u5445-fr.jpg" crc="19935223" ref="tablet>index"/>
     <file name="u5282.png" crc="3928358019" ref="tablet>index"/>
     <file name="u5282-r.png" crc="4067725953" ref="tablet>index"/>
     <file name="u5284.png" crc="392385803" ref="tablet>index"/>
@@ -133,25 +130,7 @@
     <file name="ua web assetsartboard 5 horizontal header.png" crc="4286379588" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ua-render-number-2.jpg" crc="150066415" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="uncleauggiesv1_2018_4.jpg" crc="3994433450" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="uncleauggiesv1_2018_10.jpg" crc="4219378209" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_14.jpg" crc="4048754167" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_8.jpg" crc="3839106472" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_13.jpg" crc="3895349854" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="ua-web-assetsasset-3-star-asset.svg" crc="3796922027" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -165,22 +144,49 @@
     </file>
     <file name="u3167.png" crc="247366307" ref="index"/>
     <file name="u3167-r.png" crc="860763" ref="index"/>
+    <file name="image4.jpg" crc="3773068500" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image2.jpg" crc="379818459" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image3.jpg" crc="3837054640" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ua-render-number-2-crop-u6858.jpg" crc="3759980814" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uncleauggiesv1_2018_4-crop-u7371.jpg" crc="355772586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uncleauggiesv1_2018_10-crop-u7398.jpg" crc="3812744980" seo="true" ref="index">
+      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
+    </file>
+    <file name="uncleauggiesv1_2018_14-crop-u7425.jpg" crc="494914212" seo="true" ref="index">
+      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
+    </file>
+    <file name="uncleauggiesv1_2018_8-crop-u7452.jpg" crc="3838202286" seo="true" ref="index">
+      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
+    </file>
+    <file name="uncleauggiesv1_2018_13-crop-u7479.jpg" crc="19338607" seo="true" ref="index">
+      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
+    </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="4153207854" ref="tablet>index"/>
-      <file name="index.css" crc="483348960" ref="tablet>index"/>
+      <file name="master_a-master.css" crc="136467284" ref="tablet>index"/>
+      <file name="index.css" crc="3979241194" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="4276839460" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="205884337" seo="true" mt="1452030864071" redirect="true"/>
+    <file name="index.html" crc="395834238" seo="true" mt="1526417169279" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3815940287" ref="phone>index"/>
-      <file name="index.css" crc="115639461" ref="phone>index"/>
+      <file name="master_a-master.css" crc="156716676" ref="phone>index"/>
+      <file name="index.css" crc="3833537248" ref="phone>index"/>
       <file name="iefonts_index.css" crc="529249347" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4009560518" seo="true" mt="1390269255832" redirect="true"/>
+    <file name="index.html" crc="182769471" seo="true" mt="1526417169082" redirect="true"/>
   </folder>
-  <file name="index.html" crc="302633169" seo="true" mt="1526414841668" redirect="true"/>
+  <file name="index.html" crc="3880699308" seo="true" mt="1526417169278" redirect="true"/>
 </manifest>
