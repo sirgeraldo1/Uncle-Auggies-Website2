@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.website" resolutions="1x" timestamp="1526417621400">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.website" resolutions="1x" timestamp="1526418475618">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="259783002" ref="index"/>
+    <file name="index.css" crc="4273359385" ref="index"/>
     <file name="iefonts_index.css" crc="240294202" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -79,7 +79,7 @@
     <file name="u5728-r.png" crc="35209442" ref="phone>index"/>
     <file name="u5730.png" crc="401112214" ref="phone>index"/>
     <file name="u5730-r.png" crc="297139583" ref="phone>index"/>
-    <file name="sunbanner.jpg" crc="316557624" ref="tablet>index:index">
+    <file name="sunbanner.jpg" crc="316557624" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="development.png" crc="3778459321" seo="true" ref="tablet>index:index">
@@ -182,5 +182,5 @@
     </folder>
     <file name="index.html" crc="182769471" seo="true" mt="1526417169082" redirect="true"/>
   </folder>
-  <file name="index.html" crc="150574553" seo="true" mt="1526417605833" redirect="true"/>
+  <file name="index.html" crc="418467096" seo="true" mt="1526418463151" redirect="true"/>
 </manifest>
