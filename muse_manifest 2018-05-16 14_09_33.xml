@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.website" resolutions="1x" timestamp="1526479775583">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.website" resolutions="1x" timestamp="1526418724693">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="452613895" ref="index"/>
+    <file name="index.css" crc="43996321" ref="index"/>
     <file name="iefonts_index.css" crc="3960975173" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -130,8 +130,7 @@
     <file name="u5292-r.png" crc="413867930" ref="tablet>index"/>
     <file name="u5294.png" crc="4272385404" ref="tablet>index"/>
     <file name="u5294-r.png" crc="112310536" ref="tablet>index"/>
-    <file name="ua web assetsartboard 5 horizontal header.png" crc="505918028" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="ua web assetsartboard 5 horizontal header.png" crc="4286379588" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ua-render-number-2-crop-u6858.jpg" crc="3759980814" seo="true" ref="index">
@@ -183,5 +182,5 @@
     </folder>
     <file name="index.html" crc="182769471" seo="true" mt="1526417169082" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4271605679" seo="true" mt="1526479759203" redirect="true"/>
+  <file name="index.html" crc="344097826" seo="true" mt="1526418713377" redirect="true"/>
 </manifest>
