@@ -27,11 +27,11 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'customeremail@email.com',
-		'to' => 'customeremail@email.com'
+		'from' => 'pdetzer@haganmarketing.com',
+		'to' => 'pdetzer@haganmarketing.com'
 	),
 	'fields' => array(
-		'custom_U5754' => array(
+		'custom_U11122' => array(
 			'order' => 1,
 			'type' => 'string',
 			'label' => 'Name',
@@ -50,7 +50,7 @@ $form = array(
 				'format' => 'Field \'Email\' has an invalid email.'
 			)
 		),
-		'custom_U5734' => array(
+		'custom_U11128' => array(
 			'order' => 3,
 			'type' => 'string',
 			'label' => 'Message',
