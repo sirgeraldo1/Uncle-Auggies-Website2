@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.website" resolutions="1x" timestamp="1526484095745">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.com" resolutions="1x" timestamp="1526496576426">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="3924393707" ref="index"/>
+    <file name="index.css" crc="522601573" ref="index"/>
     <file name="iefonts_index.css" crc="4157148494" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -11,9 +11,9 @@
     <file name="museconfig.js" crc="4286661555" ref="phone>index:tablet>index:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:tablet>index"/>
     <file name="webpro.js" crc="4059564322" ref="phone>index:tablet>index:index"/>
-    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
-    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
-    <file name="form_process.php" crc="37464564" ref="phone>index"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index:index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index:index"/>
     <file name="form-u5733.php" crc="191823285" ref="phone>index"/>
     <file name="jquery.watch.js" crc="51536988" ref="phone>index:tablet>index:index"/>
     <file name="require.js" crc="7928878" ref="phone>index:tablet>index:index"/>
@@ -24,14 +24,13 @@
     <file name="form-u5297.php" crc="137512103" ref="tablet>index"/>
     <file name="form-u2691.php" crc="62568478" ref="index"/>
     <file name="form-u9593.php" crc="526123243" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
   </folder>
   <folder name="images">
     <file name="branding.png" crc="4293309447" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="design.png" crc="3991986915" seo="true" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="jamesdoe.jpg" crc="403037988" ref="phone>index:tablet>index">
@@ -151,6 +150,7 @@
     <file name="ua-web-assetsasset-3-star-asset.svg" crc="3796922027" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="ua web assetsasset 3 star asset_poster_.png" crc="338485869" ref="index"/>
     <file name="auggie-1-color-crop-u6672.jpg" crc="4038929855" seo="true" ref="index">
@@ -178,5 +178,5 @@
     </folder>
     <file name="index.html" crc="182769471" seo="true" mt="1526484081452" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4113973400" seo="true" mt="1526483954169" redirect="true"/>
+  <file name="index.html" crc="79998150" seo="true" mt="1526496556963" redirect="true"/>
 </manifest>
