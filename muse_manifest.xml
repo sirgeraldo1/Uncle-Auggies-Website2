@@ -1,119 +1,74 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.com" resolutions="1x" timestamp="1526505332383">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.com" resolutions="1x" timestamp="1526506772018">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="35102333" ref="index"/>
+    <file name="index.css" crc="36770117" ref="index"/>
     <file name="iefonts_index.css" crc="4008976248" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
-    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
-    <file name="museconfig.js" crc="4286661555" ref="phone>index:index"/>
-    <file name="webpro.js" crc="4059564322" ref="phone>index:index"/>
-    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
-    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
-    <file name="form_process.php" crc="37464564" ref="phone>index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
-    <file name="require.js" crc="7928878" ref="phone>index:index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index:phone>index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:phone>index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index:phone>index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
     <file name="form-u2691.php" crc="62568478" ref="index"/>
     <file name="form-u9593.php" crc="526123243" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:phone>index"/>
-    <file name="form-u11209.php" crc="525231049" ref="phone>index"/>
-    <file name="form-u11115.php" crc="396982092" ref="phone>index"/>
   </folder>
   <folder name="images">
-    <file name="branding.png" crc="4293309447" seo="true" ref="phone>index:index">
+    <file name="branding.png" crc="4293309447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="design.png" crc="3991986915" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="development.png" crc="3778459321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ua web assetsartboard 5 horizontal header.png" crc="505918028" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="design.png" crc="3991986915" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="development.png" crc="3778459321" seo="true" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
+    <file name="ua-render-number-2-crop-u6858.jpg" crc="4252003361" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ua web assetsartboard 5 horizontal header.png" crc="505918028" seo="true" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="uncleauggiesv1_2018_4-crop-u7371.jpg" crc="4282617341" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ua-render-number-2-crop-u6858.jpg" crc="3759980814" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index:phone>index"/>
-    <file name="uncleauggiesv1_2018_4-crop-u7371.jpg" crc="355772586" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="uncleauggiesv1_2018_10-crop-u7398.jpg" crc="3812744980" seo="true" ref="index">
+    <file name="uncleauggiesv1_2018_10-crop-u7398.jpg" crc="440178948" seo="true" ref="index">
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
     </file>
-    <file name="uncleauggiesv1_2018_14-crop-u7425.jpg" crc="494914212" seo="true" ref="index">
+    <file name="uncleauggiesv1_2018_14-crop-u7425.jpg" crc="3851854428" seo="true" ref="index">
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
     </file>
-    <file name="uncleauggiesv1_2018_8-crop-u7452.jpg" crc="3838202286" seo="true" ref="index">
+    <file name="uncleauggiesv1_2018_8-crop-u7452.jpg" crc="3865743079" seo="true" ref="index">
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
     </file>
-    <file name="uncleauggiesv1_2018_13-crop-u7479.jpg" crc="19338607" seo="true" ref="index">
+    <file name="uncleauggiesv1_2018_13-crop-u7479.jpg" crc="11751208" seo="true" ref="index">
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index:phone>index"/>
-    <file name="ua-web-assetsasset-3-star-asset.svg" crc="3796922027" seo="true" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="ua-web-assetsasset-3-star-asset.svg" crc="3796922027" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ua web assetsasset 3 star asset_poster_.png" crc="338485869" ref="phone>index"/>
+    <file name="ua web assetsasset 3 star asset_poster_.png" crc="338485869" ref="index"/>
     <file name="auggie-1-color-crop-u6672.jpg" crc="212766025" seo="true" ref="index">
       <caption webpage="index" alt="Uncle Auggie's August"/>
     </file>
-    <file name="ig-post-compressed.jpg" crc="3943388741" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
     <file name="u3167.png" crc="181353170" ref="index"/>
     <file name="u3167-r.png" crc="4181981979" ref="index"/>
-    <file name="auggie-1-color-crop-u11180.jpg" crc="324056844" seo="true" ref="phone>index">
-      <caption webpage="index" alt="Uncle Auggie's August"/>
-    </file>
-    <file name="ig-post-compressed-crop-u11182.jpg" crc="17791209" seo="true" ref="phone>index">
+    <file name="ig-post-compressed-crop-u6831.jpg" crc="3907093431" seo="true" ref="index">
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
     </file>
-    <file name="u12168.png" crc="3911922289" ref="phone>index"/>
-    <file name="u12168-r.png" crc="3931819276" ref="phone>index"/>
-    <file name="ua-render-number-2.jpg" crc="400556563" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="uncleauggiesv1_2018_4.jpg" crc="4199825188" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="uncleauggiesv1_2018_10.jpg" crc="3866345484" seo="true" ref="phone>index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_14.jpg" crc="20676932" seo="true" ref="phone>index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_8.jpg" crc="527105662" seo="true" ref="phone>index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_13.jpg" crc="145749306" seo="true" ref="phone>index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="home-favicon.ico" crc="507748480" ref="phone>index"/>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="98414922" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="428528615" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="4200483229" seo="true" mt="1526505300137" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="488781708" seo="true" mt="1526505300129" redirect="true"/>
+  <file name="index.html" crc="4038747133" seo="true" mt="1526506754089" redirect="true"/>
 </manifest>
