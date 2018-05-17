@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.com" resolutions="1x" timestamp="1526589306838">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.com" resolutions="1x" timestamp="1526589971873">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
     <file name="index.css" crc="85091993" ref="index"/>
-    <file name="home.css" crc="408022803" ref="home"/>
-    <file name="nomq_home.css" crc="37176475" ref="home"/>
+    <file name="home.css" crc="3873733777" ref="home"/>
+    <file name="nomq_home.css" crc="247415054" ref="home"/>
     <file name="iefonts_home.css" crc="176100216" ref="home"/>
   </folder>
   <folder name="scripts">
@@ -196,5 +196,5 @@
     <file name="home-favicon.ico" crc="507748480" ref="home"/>
   </folder>
   <file name="index.html" crc="4265043692" mt="1526585832316" redirect="false"/>
-  <file name="home.html" crc="3939545415" seo="true" mt="1526589285987" redirect="true"/>
+  <file name="home.html" crc="3900207329" seo="true" mt="1526589945567" redirect="true"/>
 </manifest>
