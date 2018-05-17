@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.com" resolutions="1x" timestamp="1526576287616">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.com" resolutions="1x" timestamp="1526578877529">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="268792150" ref="index"/>
+    <file name="index.css" crc="3952826831" ref="index"/>
     <file name="iefonts_index.css" crc="176100216" ref="index"/>
-    <file name="nomq_index.css" crc="3845126919" ref="index"/>
+    <file name="nomq_index.css" crc="4227504851" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -19,7 +19,7 @@
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="form-u2691.php" crc="62568478" ref="index"/>
+    <file name="form-u2691.php" crc="187520187" ref="index"/>
     <file name="form-u9593.php" crc="3464648" ref="index"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
@@ -27,12 +27,18 @@
     <file name="branding.png" crc="4293309447" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="design.png" crc="3991986915" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="development.png" crc="3778459321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -41,14 +47,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="ua-render-number-2-crop-u6858.jpg" crc="4252003361" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="uncleauggiesv1_2018_4-crop-u7371.jpg" crc="4282617341" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="ua-web-assetsasset-3-star-asset.svg" crc="3796922027" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -57,46 +61,82 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="ua web assetsasset 3 star asset_poster_.png" crc="338485869" ref="index"/>
-    <file name="auggie-1-color-crop-u6672.jpg" crc="212766025" seo="true" ref="index">
+    <file name="auggie-1-color-crop-u6672.jpg" crc="336502194" seo="true" ref="index">
       <caption webpage="index" alt="Uncle Auggie's August"/>
     </file>
     <file name="u3167.png" crc="181353170" ref="index"/>
     <file name="u3167-r.png" crc="4181981979" ref="index"/>
-    <file name="ig-post-compressed-crop-u6831.jpg" crc="3907093431" seo="true" ref="index">
+    <file name="ig-post-compressed-crop-u6831.jpg" crc="3774918151" seo="true" ref="index">
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
     </file>
-    <file name="uncleauggiesv1_2018_10.jpg" crc="367139038" seo="true" ref="index">
+    <file name="uncleauggiesv1_2018_10.jpg" crc="4023543875" seo="true" ref="index">
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_14.jpg" crc="41364638" seo="true" ref="index">
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
     </file>
-    <file name="uncleauggiesv1_2018_8.jpg" crc="3876475467" seo="true" ref="index">
+    <file name="uncleauggiesv1_2018_14.jpg" crc="10473314" seo="true" ref="index">
+      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
+      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
     </file>
-    <file name="uncleauggiesv1_2018_13.jpg" crc="432076983" seo="true" ref="index">
+    <file name="uncleauggiesv1_2018_8.jpg" crc="512976262" seo="true" ref="index">
+      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
+      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
     </file>
-    <file name="ua-render-number-2-crop-u68582.jpg" crc="4252003361" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="uncleauggiesv1_2018_13.jpg" crc="4014086827" seo="true" ref="index">
+      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
+      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
+      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
+      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
     </file>
-    <file name="uncleauggiesv1_2018_4-crop-u73712.jpg" crc="4282617341" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="auggie-1-color-crop-u66722.jpg" crc="474807259" seo="true" ref="index">
+    <file name="auggie-1-color-crop-u66722.jpg" crc="212766025" seo="true" ref="index">
       <caption webpage="index" alt="Uncle Auggie's August"/>
     </file>
-    <file name="ig-post-compressed-crop-u68312.jpg" crc="4293359285" seo="true" ref="index">
+    <file name="ig-post-compressed-crop-u68312.jpg" crc="3907093431" seo="true" ref="index">
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
     </file>
     <file name="u31672.png" crc="181353170" ref="index"/>
     <file name="u3167-r2.png" crc="4181981979" ref="index"/>
+    <file name="ua-render-number-2.jpg" crc="452606930" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uncleauggiesv1_2018_4.jpg" crc="4250863736" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="auggie-1-color-crop-u66723.jpg" crc="474807259" seo="true" ref="index">
+      <caption webpage="index" alt="Uncle Auggie's August"/>
+    </file>
+    <file name="ig-post-compressed-crop-u68313.jpg" crc="4293359285" seo="true" ref="index">
+      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
+    </file>
+    <file name="u31673.png" crc="181353170" ref="index"/>
+    <file name="u3167-r3.png" crc="4181981979" ref="index"/>
+    <file name="auggie-1-color-crop-u66724.jpg" crc="314498957" seo="true" ref="index">
+      <caption webpage="index" alt="Uncle Auggie's August"/>
+    </file>
+    <file name="ig-post-compressed-crop-u68314.jpg" crc="345898893" seo="true" ref="index">
+      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
+    </file>
+    <file name="u31674.png" crc="3983977240" ref="index"/>
+    <file name="u3167-r4.png" crc="4214741473" ref="index"/>
   </folder>
-  <file name="index.html" crc="4093140797" seo="true" mt="1526576232391" redirect="true"/>
+  <file name="index.html" crc="4245702390" seo="true" mt="1526578778055" redirect="true"/>
 </manifest>

@@ -18,12 +18,6 @@
       <image:loc>http://uncleauggies.com/images/ua%20web%20assetsartboard%205%20horizontal%20header.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://uncleauggies.com/images/ua-render-number-2-crop-u6858.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_4-crop-u7371.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://uncleauggies.com/images/ua-web-assetsasset-3-star-asset.svg</image:loc>
     </image:image>
     <image:image>
@@ -51,17 +45,33 @@
       <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://uncleauggies.com/images/ua-render-number-2-crop-u68582.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_4-crop-u73712.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://uncleauggies.com/images/auggie-1-color-crop-u66722.jpg</image:loc>
       <image:caption>Uncle Auggie's August</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://uncleauggies.com/images/ig-post-compressed-crop-u68312.jpg</image:loc>
+      <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/ua-render-number-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/auggie-1-color-crop-u66723.jpg</image:loc>
+      <image:caption>Uncle Auggie's August</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/ig-post-compressed-crop-u68313.jpg</image:loc>
+      <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/auggie-1-color-crop-u66724.jpg</image:loc>
+      <image:caption>Uncle Auggie's August</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/ig-post-compressed-crop-u68314.jpg</image:loc>
       <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
     </image:image>
   </url>
