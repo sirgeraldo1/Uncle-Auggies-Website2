@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'contact@uncleauggies.website',
-		'to' => 'contact@uncleauggies.website'
+		'from' => 'paul@uncleauggies.com',
+		'to' => 'paul@uncleauggies.com'
 	),
 	'fields' => array(
 		'custom_U9594' => array(
