@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://uncleauggies.com/index.html</loc>
-    <lastmod>2018-05-17</lastmod>
+    <lastmod>2018-06-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -53,12 +53,6 @@
       <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://uncleauggies.com/images/ua-render-number-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_4.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://uncleauggies.com/images/auggie-1-color-crop-u66723.jpg</image:loc>
       <image:caption>Uncle Auggie's August</image:caption>
     </image:image>
@@ -71,8 +65,86 @@
       <image:caption>Uncle Auggie's August</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://uncleauggies.com/images/ig-post-compressed-crop-u68314.jpg</image:loc>
+      <image:loc>http://uncleauggies.com/images/ig-post-compressed.jpg</image:loc>
       <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
     </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/ua-render-number-2-crop-u6858.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_4-crop-u7371.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_10-crop-u7398.jpg</image:loc>
+      <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_14-crop-u7425.jpg</image:loc>
+      <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_8-crop-u7452.jpg</image:loc>
+      <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_13-crop-u7479.jpg</image:loc>
+      <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/ua-render-number-2-crop-u68582.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_4-crop-u73712.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/ua-render-number-2745x559.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_4745x627.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_10821x542.jpg</image:loc>
+      <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_14819x542.jpg</image:loc>
+      <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_8819x542.jpg</image:loc>
+      <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_13819x542.jpg</image:loc>
+      <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/ua-render-number-2494x370.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_4475x400.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_10561x370.jpg</image:loc>
+      <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_14559x370.jpg</image:loc>
+      <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_8559x370.jpg</image:loc>
+      <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://uncleauggies.com/images/uncleauggiesv1_2018_13559x370.jpg</image:loc>
+      <image:caption>Uncle Auggie's Uncle Auggie Auggies Pomade</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://uncleauggies.com/assets/shopify_button.mulib</loc>
+    <lastmod>2018-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
