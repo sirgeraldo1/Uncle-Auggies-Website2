@@ -1,11 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.com" resolutions="1x" timestamp="1528905756939">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.com" resolutions="1x" timestamp="1528915173873">
   <folder name="assets">
     <file name="shopify_button.mulib" crc="4131339531" seo="true" mt="1528475512000"/>
+    <file name="screen-shot-2018-06-13-at-2.20.01-pm.png" crc="3765167594" seo="true" mt="1528914485000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="3993341058" ref="index"/>
-    <file name="nomq_index.css" crc="449809786" ref="index"/>
+    <file name="index.css" crc="3797998334" ref="index"/>
+    <file name="nomq_index.css" crc="3829027640" ref="index"/>
     <file name="iefonts_index.css" crc="176100216" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -204,9 +205,6 @@
     <file name="uncleauggiesv1_2018_4475x400.jpg" crc="221617822" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="uncleauggiesv1_2018_10561x370.jpg" crc="88720020" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
     <file name="uncleauggiesv1_2018_14559x370.jpg" crc="10522882" seo="true" ref="index">
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
     </file>
@@ -216,6 +214,9 @@
     <file name="uncleauggiesv1_2018_13559x370.jpg" crc="22855508" seo="true" ref="index">
       <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
     </file>
+    <file name="uncleauggiesv1_2018_10-crop-u73982.jpg" crc="2762899" seo="true" ref="index">
+      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
+    </file>
   </folder>
-  <file name="index.html" crc="3940177868" mt="1528905665618" redirect="true" seo="true"/>
+  <file name="index.html" crc="4040603409" mt="1528915133277" redirect="true" seo="true"/>
 </manifest>
