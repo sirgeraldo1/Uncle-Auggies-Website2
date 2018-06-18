@@ -1,222 +1,167 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.com" resolutions="1x" timestamp="1528915173873">
-  <folder name="assets">
-    <file name="shopify_button.mulib" crc="4131339531" seo="true" mt="1528475512000"/>
-    <file name="screen-shot-2018-06-13-at-2.20.01-pm.png" crc="3765167594" seo="true" mt="1528914485000"/>
-  </folder>
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.com" resolutions="1x" timestamp="1529364974884">
   <folder name="css">
-    <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="3797998334" ref="index"/>
-    <file name="nomq_index.css" crc="3829027640" ref="index"/>
-    <file name="iefonts_index.css" crc="176100216" ref="index"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="ingredients.css" crc="40450301" ref="ingredients"/>
+    <file name="nomq_ingredients.css" crc="4223018865" ref="ingredients"/>
+    <file name="thank-you.css" crc="4052094393" ref="thank-you"/>
+    <file name="nomq_thank-you.css" crc="3955850430" ref="thank-you"/>
+    <file name="index.css" crc="4051599694" ref="index"/>
+    <file name="nomq_index.css" crc="3915714927" ref="index"/>
+    <file name="order.css" crc="3845281909" ref="order"/>
+    <file name="nomq_order.css" crc="435611418" ref="order"/>
+    <file name="about.css" crc="184591965" ref="about"/>
+    <file name="nomq_about.css" crc="403363636" ref="about"/>
+  </folder>
+  <folder name="assets">
+    <file name="iphone-6-7-8-–-1.pdf" crc="3939624785" seo="true" mt="1529104543000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:order:ingredients:about:thank-you"/>
+    <file name="museutils.js" crc="340535759" ref="index:order:ingredients:about:thank-you"/>
+    <file name="whatinput.js" crc="86476730" ref="index:order:ingredients:about:thank-you"/>
+    <file name="museconfig.js" crc="310584261" ref="index:order:ingredients:about:thank-you"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:order:ingredients:about:thank-you"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:order:ingredients:about:thank-you"/>
+    <file name="require.js" crc="7928878" ref="index:order:ingredients:about:thank-you"/>
+    <file name="webpro.js" crc="4059564322" ref="ingredients:about"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="ingredients:about"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="ingredients:about"/>
+    <file name="touchswipe.js" crc="4075097462" ref="ingredients:about"/>
   </folder>
   <folder name="images">
-    <file name="branding.png" crc="4293309447" seo="true" ref="index">
+    <file name="ua cardboard compasset 1_v2.png" crc="470976162" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
     </file>
-    <file name="design.png" crc="3991986915" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-    </file>
-    <file name="development.png" crc="3778459321" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-    </file>
-    <file name="ua web assetsartboard 5 horizontal header.png" crc="4286379588" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="ua-web-assetsasset-3-star-asset.svg" crc="3796922027" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-    </file>
-    <file name="ua web assetsasset 3 star asset_poster_.png" crc="338485869" ref="index"/>
-    <file name="auggie-1-color-crop-u6672.jpg" crc="26872242" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's August"/>
-      <caption webpage="home" alt="Uncle Auggie's August"/>
-    </file>
-    <file name="u3167.png" crc="181353170" ref="index"/>
-    <file name="u3167-r.png" crc="4181981979" ref="index"/>
-    <file name="ig-post-compressed-crop-u6831.jpg" crc="3907093431" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_10.jpg" crc="359481240" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_14.jpg" crc="325235611" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_8.jpg" crc="3991040326" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_13.jpg" crc="535112821" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="auggie-1-color-crop-u66722.jpg" crc="4038929855" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's August"/>
-      <caption webpage="home" alt="Uncle Auggie's August"/>
-    </file>
-    <file name="ig-post-compressed-crop-u68312.jpg" crc="4293359285" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="u31672.png" crc="181353170" ref="index"/>
-    <file name="u3167-r2.png" crc="4181981979" ref="index"/>
-    <file name="auggie-1-color-crop-u66723.jpg" crc="316092106" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's August"/>
-      <caption webpage="home" alt="Uncle Auggie's August"/>
-    </file>
-    <file name="ig-post-compressed-crop-u68313.jpg" crc="345898893" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-      <caption webpage="home" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="u31673.png" crc="181353170" ref="index"/>
-    <file name="u3167-r3.png" crc="4181981979" ref="index"/>
-    <file name="auggie-1-color-crop-u66724.jpg" crc="254716158" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's August"/>
-      <caption webpage="home" alt="Uncle Auggie's August"/>
-    </file>
-    <file name="u31674.png" crc="3983977240" ref="index"/>
-    <file name="u3167-r4.png" crc="4214741473" ref="index"/>
-    <file name="home-favicon.ico" crc="507748480" ref="index"/>
-    <file name="ig-post-compressed.jpg" crc="3943388741" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="ua-render-number-2-crop-u6858.jpg" crc="4259939687" seo="true" ref="index">
+    <file name="ds1_7022-crop-u487.jpg" crc="4006344846" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="uncleauggiesv1_2018_4-crop-u7371.jpg" crc="430397189" seo="true" ref="index">
+    <file name="close-up-freshness-green-531260(1)-crop-u885.jpg" crc="4072140097" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="uncleauggiesv1_2018_10-crop-u7398.jpg" crc="4059694359" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_14-crop-u7425.jpg" crc="477255360" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_8-crop-u7452.jpg" crc="4254424826" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_13-crop-u7479.jpg" crc="449297635" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="ua-render-number-2-crop-u68582.jpg" crc="3990658973" seo="true" ref="index">
+    <file name="auggie-1-color-crop-u933.jpg" crc="3981407391" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="uncleauggiesv1_2018_4-crop-u73712.jpg" crc="4047931030" seo="true" ref="index">
+    <file name="screen shot 2018-06-14 at 53921 pm.jpg" crc="3787871583" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ua-render-number-2745x559.jpg" crc="328126936" seo="true" ref="index">
+    <file name="ds1_7022-crop-u4872.jpg" crc="3838054714" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="uncleauggiesv1_2018_4745x627.jpg" crc="3958250023" seo="true" ref="index">
+    <file name="close-up-freshness-green-531260(1)-crop-u8852.jpg" crc="4108852219" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="uncleauggiesv1_2018_10821x542.jpg" crc="221572608" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_14819x542.jpg" crc="3945783946" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_8819x542.jpg" crc="214244458" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="uncleauggiesv1_2018_13819x542.jpg" crc="4119717648" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
-    </file>
-    <file name="ua-render-number-2494x370.jpg" crc="341307518" seo="true" ref="index">
+    <file name="auggie-1-color-crop-u9332.jpg" crc="4109692422" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="uncleauggiesv1_2018_4475x400.jpg" crc="221617822" seo="true" ref="index">
+    <file name="screen shot 2018-06-14 at 53921 pm640x641.jpg" crc="4131682266" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="uncleauggiesv1_2018_14559x370.jpg" crc="10522882" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
+    <file name="blank.gif" crc="4208392903" ref="index:order:ingredients:about:thank-you"/>
+    <file name="screen shot 2018-06-14 at 53921 pm-crop-u1391.jpg" crc="4028041176" seo="true" ref="order">
+      <caption webpage="order" alt=""/>
     </file>
-    <file name="uncleauggiesv1_2018_8559x370.jpg" crc="264170141" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
+    <file name="ua cardboard compheader_v1.png" crc="179650338" seo="true" ref="order:ingredients:about:thank-you">
+      <caption webpage="thank-you" alt=""/>
+      <caption webpage="thank-you" alt=""/>
+      <caption webpage="ingredients" alt=""/>
+      <caption webpage="ingredients" alt=""/>
+      <caption webpage="order" alt=""/>
+      <caption webpage="order" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="uncleauggiesv1_2018_13559x370.jpg" crc="22855508" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
+    <file name="ds1_7127-crop-u1469.jpg" crc="3764018699" seo="true" ref="order">
+      <caption webpage="order" alt=""/>
     </file>
-    <file name="uncleauggiesv1_2018_10-crop-u73982.jpg" crc="2762899" seo="true" ref="index">
-      <caption webpage="index" alt="Uncle Auggie's Uncle Auggie Auggies Pomade "/>
+    <file name="screen shot 2018-06-14 at 53921 pm-crop-u13912.jpg" crc="4133910376" seo="true" ref="order">
+      <caption webpage="order" alt=""/>
+    </file>
+    <file name="ds1_7127-crop-u14692.jpg" crc="4029509723" seo="true" ref="order">
+      <caption webpage="order" alt=""/>
+    </file>
+    <file name="screen shot 2018-06-14 at 53921 pm-crop-u1666.jpg" crc="11188589" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="sheabutter-virginsheabutter.jpg" crc="4035828614" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="adult-beverage-blur-1135231.jpg" crc="3906913158" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="agriculture-blur-close-up-33783.jpg" crc="4053414801" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="close-up-freshness-green-531260(1).jpg" crc="206711095" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="sedimentary-clay-mountain.jpg" crc="5339357" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="sheabutter-virginsheabutter-crop-u1703.jpg" crc="288311856" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="adult-beverage-blur-1135231-crop-u1873.jpg" crc="300048287" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="agriculture-blur-close-up-33783-crop-u1904.jpg" crc="4218897347" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="close-up-freshness-green-531260(1)-crop-u1935.jpg" crc="4001870280" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="sedimentary-clay-mountain-crop-u1966.jpg" crc="338324230" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="ingredients:about"/>
+    <file name="screen shot 2018-06-14 at 53921 pm-crop-u16662.jpg" crc="4133910376" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="sheabutter-virginsheabutter-crop-u17032.jpg" crc="323610758" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="adult-beverage-blur-1135231-crop-u18732.jpg" crc="296452179" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="agriculture-blur-close-up-33783-crop-u19042.jpg" crc="161614359" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="close-up-freshness-green-531260(1)-crop-u19352.jpg" crc="426921419" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="sedimentary-clay-mountain-crop-u19662.jpg" crc="257822934" seo="true" ref="ingredients">
+      <caption webpage="ingredients" alt=""/>
+    </file>
+    <file name="screen shot 2018-06-14 at 53921 pm-crop-u2318.jpg" crc="11188589" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="auggie-1-color.jpg" crc="3909307019" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="max-chris-and-paul-mustaches-v3.jpg" crc="3862402238" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="screen shot 2018-06-14 at 53921 pm-crop-u23182.jpg" crc="4133910376" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="screen shot 2018-06-14 at 53921 pm-crop-u2826.jpg" crc="4083980134" seo="true" ref="thank-you">
+      <caption webpage="thank-you" alt=""/>
+    </file>
+    <file name="screen shot 2018-06-14 at 53921 pm-crop-u28262.jpg" crc="4133910376" seo="true" ref="thank-you">
+      <caption webpage="thank-you" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4040603409" mt="1528915133277" redirect="true" seo="true"/>
+  <file name="index.html" crc="3868307136" seo="true" mt="1529363978109" redirect="true"/>
+  <file name="order.html" crc="3878895329" seo="true" mt="1529263413344" redirect="true"/>
+  <file name="ingredients.html" crc="4246241092" seo="true" mt="1529263413342" redirect="true"/>
+  <file name="about.html" crc="79981367" seo="true" mt="1529263413341" redirect="true"/>
+  <file name="thank-you.html" crc="444360337" seo="true" mt="1529263413345" redirect="true"/>
 </manifest>
