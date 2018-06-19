@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.com" resolutions="1x" timestamp="1529367741932">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.com" resolutions="1x" timestamp="1529368053615">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="ingredients.css" crc="40450301" ref="ingredients"/>
     <file name="nomq_ingredients.css" crc="4223018865" ref="ingredients"/>
     <file name="thank-you.css" crc="4052094393" ref="thank-you"/>
     <file name="nomq_thank-you.css" crc="3955850430" ref="thank-you"/>
-    <file name="index.css" crc="3848898871" ref="index"/>
-    <file name="nomq_index.css" crc="244732648" ref="index"/>
+    <file name="index.css" crc="512895275" ref="index"/>
+    <file name="nomq_index.css" crc="4050316132" ref="index"/>
     <file name="order.css" crc="3972364822" ref="order"/>
     <file name="nomq_order.css" crc="530920941" ref="order"/>
     <file name="about.css" crc="184591965" ref="about"/>
@@ -172,7 +172,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3833978563" seo="true" mt="1529367170079" redirect="true"/>
+  <file name="index.html" crc="383130114" seo="true" mt="1529367963169" redirect="true"/>
   <file name="order.html" crc="4236351812" seo="true" mt="1529366933664" redirect="true"/>
   <file name="ingredients.html" crc="4246241092" seo="true" mt="1529263413342" redirect="true"/>
   <file name="about.html" crc="79981367" seo="true" mt="1529263413341" redirect="true"/>
