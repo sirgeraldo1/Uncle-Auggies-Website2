@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.com" resolutions="1x" timestamp="1529364974884">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="uncleauggies.com" resolutions="1x" timestamp="1529366768687">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="ingredients.css" crc="40450301" ref="ingredients"/>
     <file name="nomq_ingredients.css" crc="4223018865" ref="ingredients"/>
     <file name="thank-you.css" crc="4052094393" ref="thank-you"/>
     <file name="nomq_thank-you.css" crc="3955850430" ref="thank-you"/>
-    <file name="index.css" crc="4051599694" ref="index"/>
-    <file name="nomq_index.css" crc="3915714927" ref="index"/>
+    <file name="index.css" crc="3870343210" ref="index"/>
+    <file name="nomq_index.css" crc="397720237" ref="index"/>
     <file name="order.css" crc="3845281909" ref="order"/>
     <file name="nomq_order.css" crc="435611418" ref="order"/>
     <file name="about.css" crc="184591965" ref="about"/>
@@ -33,6 +33,7 @@
     <file name="ua cardboard compasset 1_v2.png" crc="470976162" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="ds1_7022-crop-u487.jpg" crc="4006344846" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -46,13 +47,13 @@
     <file name="screen shot 2018-06-14 at 53921 pm.jpg" crc="3787871583" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ds1_7022-crop-u4872.jpg" crc="3838054714" seo="true" ref="index">
+    <file name="ds1_7022-crop-u4872.jpg" crc="4006344846" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="close-up-freshness-green-531260(1)-crop-u8852.jpg" crc="4108852219" seo="true" ref="index">
+    <file name="close-up-freshness-green-531260(1)-crop-u8852.jpg" crc="4072140097" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="auggie-1-color-crop-u9332.jpg" crc="4109692422" seo="true" ref="index">
+    <file name="auggie-1-color-crop-u9332.jpg" crc="3981407391" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="screen shot 2018-06-14 at 53921 pm640x641.jpg" crc="4131682266" ref="index">
@@ -158,8 +159,20 @@
     <file name="screen shot 2018-06-14 at 53921 pm-crop-u28262.jpg" crc="4133910376" seo="true" ref="thank-you">
       <caption webpage="thank-you" alt=""/>
     </file>
+    <file name="screen shot 2018-06-14 at 53921 pm1170x1171.jpg" crc="4070230164" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ds1_7022-crop-u4873.jpg" crc="3838054714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close-up-freshness-green-531260(1)-crop-u8853.jpg" crc="4108852219" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="auggie-1-color-crop-u9333.jpg" crc="4109692422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3868307136" seo="true" mt="1529363978109" redirect="true"/>
+  <file name="index.html" crc="4198756337" seo="true" mt="1529366738757" redirect="true"/>
   <file name="order.html" crc="3878895329" seo="true" mt="1529263413344" redirect="true"/>
   <file name="ingredients.html" crc="4246241092" seo="true" mt="1529263413342" redirect="true"/>
   <file name="about.html" crc="79981367" seo="true" mt="1529263413341" redirect="true"/>
