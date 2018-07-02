@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("../images/screen shot 2018-06-14 at 53921 pm1170x1171.jpg");
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.42857143;
+  color: #333;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.nav-container {
+  color: #fff;
+  padding: 20px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar {
+  border: 1px solid #fff;  /* For debugging */
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 900px;
+
+}
+
+.nav-items > a {
+  color: inherit;
+  text-decoration: inherit;
+}
